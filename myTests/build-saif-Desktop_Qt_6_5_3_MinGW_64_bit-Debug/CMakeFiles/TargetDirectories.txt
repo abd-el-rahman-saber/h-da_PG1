@@ -1,0 +1,7 @@
+C:/Users/abdel/OneDrive/Desktop/Hochschule/PG1/myTests/build-saif-Desktop_Qt_6_5_3_MinGW_64_bit-Debug/CMakeFiles/saif.dir
+C:/Users/abdel/OneDrive/Desktop/Hochschule/PG1/myTests/build-saif-Desktop_Qt_6_5_3_MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
+C:/Users/abdel/OneDrive/Desktop/Hochschule/PG1/myTests/build-saif-Desktop_Qt_6_5_3_MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/abdel/OneDrive/Desktop/Hochschule/PG1/myTests/build-saif-Desktop_Qt_6_5_3_MinGW_64_bit-Debug/CMakeFiles/list_install_components.dir
+C:/Users/abdel/OneDrive/Desktop/Hochschule/PG1/myTests/build-saif-Desktop_Qt_6_5_3_MinGW_64_bit-Debug/CMakeFiles/install.dir
+C:/Users/abdel/OneDrive/Desktop/Hochschule/PG1/myTests/build-saif-Desktop_Qt_6_5_3_MinGW_64_bit-Debug/CMakeFiles/install/local.dir
+C:/Users/abdel/OneDrive/Desktop/Hochschule/PG1/myTests/build-saif-Desktop_Qt_6_5_3_MinGW_64_bit-Debug/CMakeFiles/install/strip.dir
